@@ -1,7 +1,15 @@
 # Mobile2 Cheat UE4.27
 
+[TR]
 Oyunun şubattaki versiyonu için geliştirilmiş ve birtakım testler için kullanılmış source dosyası.
+
 Birçok class ve içeriğini test ederek bir farm bot ortaya çıkartmaya çalışıldı. Eğer güncelleyip kullanmak istiyorsanız credits kısmındaki UE dumperını kullanabilirsiniz.
+
+[EN]
+
+Source code developed for the February version of the game and used for some tests.
+
+It was tried to create a farm bot by testing many classes and content. If you want to update and use it, you can use the UE dumper in the credits section.
 
 # Used Librarys
 
