@@ -3,7 +3,7 @@
 Oyunun şubattaki versiyonu için geliştirilmiş ve birtakım testler için kullanılmış source dosyası.
 Birçok class ve içeriğini test ederek bir farm bot ortaya çıkartmaya çalışıldı. Eğer güncelleyip kullanmak istiyorsanız credits kısmındaki UE dumperını kullanabilirsiniz.
 
-#Used Librarys
+# Used Librarys
 
 Polyhook2 for x64 detoruing -> https://github.com/stevemk14ebr/PolyHook_2_0
 
