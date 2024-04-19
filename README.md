@@ -14,3 +14,10 @@ SDK Dumper by Encryqed -> https://github.com/Encryqed/Dumper-7
 Memory class and UE4 example -> https://github.com/NightFyre/Palworld-Internal
 
 UE4 Cheating Tutorial -> https://www.youtube.com/@v0id1337
+
+# Some development videos
+
+https://imgur.com/a/6rC4mVG
+
+https://imgur.com/a/Vnnw2NK
+
